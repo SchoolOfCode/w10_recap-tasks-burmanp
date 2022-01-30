@@ -1,0 +1,7 @@
+.logout {
+  display: flex;
+  justify-content: flex-end;
+}
+.logout:hover{
+  border-right: 0.5em solid maroon;
+}

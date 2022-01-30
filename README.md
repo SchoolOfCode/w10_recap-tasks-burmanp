@@ -1,3 +1,58 @@
+
+# Project Title
+
+Week 10 Recap task which involves React, CSS Modules, UI Libraries (I use [Ant Design](https://ant.design/)) for this Project) and authentication with [Auth0](https://auth0.com). The Project is also hosted on Netlify and this documentation is made with [readme.so](https://readme.so).
+
+---
+## Demo
+
+**See the Demo at the link below**
+
+[Demo](https://suspicious-banach-57c746.netlify.app/)
+
+---
+## Installation
+
+The project can be forked and cloned down from this repo using [repo link](https://github.com/SchoolOfCode/w10_recap-tasks-burmanp.git)
+
+```bash
+  cd your-project
+  git clone https://github.com/SchoolOfCode/w10_recap-tasks-burmanp.git
+  npm i
+```
+
+---
+## Components
+*Below is how the components are structured.*
+*Please see the rel.drawio file for the components and props tree*
+- App
+  - LoginButton
+- Main
+  - LogoutButton
+  - Articles({ title, paragraphs, comments })
+    - Comments({comments})
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+---
+
+---
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6848100&assignment_repo_type=AssignmentRepo)
 # Weekly Recap Tasks
 
@@ -43,6 +98,11 @@ If you'd like to carry on with this repo, here are some ideas:
 
 
 ## Components
+- App
+  - LoginButton
 - Main
-- Articles
-  - Comments
+  - LogoutButton
+  - Articles
+    - Comments
+
+## 
