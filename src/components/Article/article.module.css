@@ -1,0 +1,18 @@
+.post{
+  /* background-color: chocolate; */
+  margin-left: 1rem;
+  padding-bottom: 2rem;
+}
+.postTitle{
+  color: #00B786;
+  font-weight: 700;
+}
+.para {
+  font-size: 1rem;
+  margin: 2rem 0;
+  text-align: left;
+}
+.btn {
+  display: flex;
+  justify-content: space-evenly;
+}

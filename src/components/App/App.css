@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+
+* {
+  max-width: 96vw;
+  margin: 0.25rem auto;
+  box-sizing: border-box;
+}
+
+h1{
+  color: #1e5749;
+  letter-spacing: 0.1rem;
+  text-align: center;
+  font-weight: 800;
+}
